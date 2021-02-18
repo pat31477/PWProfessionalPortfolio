@@ -38,11 +38,11 @@ Smaller devices screen example:
 
 Desktop screen:
 
-![nav-menu](./Assets/Images/Nav-Menu.JPG?raw=true "Navigational Menu")
+![nav-menu](./Assets/Images/Nav-Menu.png?raw=true "Navigational Menu")
 
 Smaller devices screen example:
 
-![nav-menu](./Assets/Images/Nav-Menu.JPG?raw=true "Navigational Menu")
+![nav-menu](./Assets/Images/Nav-Menu.png?raw=true "Navigational Menu")
 
 
 
