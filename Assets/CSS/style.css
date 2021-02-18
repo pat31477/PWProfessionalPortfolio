@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:rgb(219, 214, 214);
+    overflow-x: hidden;
+}
+
+header {
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(41, 98, 98);
+    color: rgb(219, 214, 214);
+   
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 30px;
+}
+
+header nav {
+    padding-top: 5px;
+    margin-right: 2px;
+    float: right;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+a {
+    color:rgb(219, 214, 214);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.backgroundImg {
+    height: 250px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../Images/techpic.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    box-shadow: 15px 10px 10px 5px gray
+   
+}
+
+.sectionContent {
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    
+}
+
+.work-text{
+    margin-left: 20em;
+    margin-top: 20px;
+    font-size: 35px;
+    position: relative;
+    color: rgb(61, 59, 59);
+}
+
+.about-text{
+    margin-left: 17.5em;
+    margin-top: 20px;
+    font-size: 35px;
+    position: relative;
+}
+
+.about-me {
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(61, 59, 59);
+    
+   
+}
+
+.professionalPic {
+    max-height: 250px;
+    max-width: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-image: url("../Assets/ProfessionalPic.jpg");
+    border: rgb(41, 98, 98);
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 15px 10px 10px 5px gray;
+    margin-left: 30em;
+   
+  
+}
+
+.work-container {
+    margin: 25px;
+    width: 100%;
+    padding: 30px;
+
+}
+
+.work {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin: 10px;
+    flex-wrap: wrap;
+
+}
+
+
+.work-container img{
+    margin: 20px 0px 20px 40px;
+    width: 250px;
+    height: 250px;
+}
+
+.thumbnail {
+    padding: 10px;
+    transition: transform .2s;
+    width: 500px;
+    height: 500px;
+    display: block;
+
+}
+
+.thumbnail:hover{
+    transform: scale(1.5);
+}
+
+.contact-me {
+    margin-bottom: 25px;
+    margin-left: 0px; 
+    word-spacing: 2.5px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(41, 98, 98);
+    color:rgb(219, 214, 214);
+
+}
+
+.contact {
+    margin:0px;
+    padding:0px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
