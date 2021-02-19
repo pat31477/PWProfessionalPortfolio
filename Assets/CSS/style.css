@@ -109,6 +109,24 @@ a {
   
 }
 
+.work-header{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px;
+    
+}
+
+.work-box{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+        
+    
+        
+}
+
 .work-container {
     margin: 25px;
     width: 100%;
