@@ -3,8 +3,7 @@
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
 3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contributing)
-5. [ License. ](#license)
+4. [ Contributions. ](#contributions)
 
 
 <a name="desc"></a>
@@ -57,10 +56,16 @@ Smaller devices screen example:
 ![body-section](./Assets/Images/##################.JPG?raw=true "Body Section")
 
 
-<a name="contributing"></a>
-## 4. Contributing
-Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
+<a name="contributions"></a>
+## 4. Contributions
+Thank you to the following for their suggestions and insights.
 
-<a name="license"></a>
-## 5. License
-None
+Ben durham
+
+Steve Marsh
+
+Jason Babanel
+
+Gabe Thomas
+
+Takuya Matsumoto
