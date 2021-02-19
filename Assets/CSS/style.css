@@ -111,8 +111,10 @@ a {
 
 .work-header{
     border-style: solid;
+    border-color: rgb(61, 59, 59) ;
     border-radius: 25px;
     padding: 10px;
+    font-size: 20px;
     
 }
 
