@@ -10,7 +10,7 @@
 ## 1. Description
 
 
-### This is the landing page for Patrick E. Walker's Professional portfolio.
+### This is Patrick E. Walker's Professional portfolio.
 
 
 Desktop screen:
@@ -33,7 +33,7 @@ Smaller devices screen example:
 ## 3. Usage Tips
 
 
-### Use the top right navigation panel to visit the different sections of the web page.
+### Use the controls in the top right to visit the different sections of the web page.
 
 Desktop screen:
 
@@ -45,7 +45,7 @@ Smaller devices screen example:
 
 
 
-### Explore the rest of the page by scrolling up or down.
+### View the rest of my page by scrolling up or down.
 
 Desktop screen:
 
