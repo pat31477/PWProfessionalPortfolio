@@ -68,7 +68,7 @@ a {
 }
 
 .work-text{
-    margin-left: 20em;
+    margin-left: 19.8em;
     margin-top: 20px;
     font-size: 35px;
     position: relative;
@@ -173,6 +173,7 @@ a {
     flex-direction: column;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
     background-color: rgb(41, 98, 98);
     color:rgb(219, 214, 214);
 
@@ -193,3 +194,26 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightcyan;
+        width: 100%;
+    }
+
+    .about-me {
+        width: 100%;
+        margin-right: 10px;
+        margin-left: 20px;
+        font-size: 20px;
+        color: rgb(0, 0, 0); 
+    }
+        
+}
+
+header h1,
+header nav ul,
+header nav li,
+.backgroundImg,
+
