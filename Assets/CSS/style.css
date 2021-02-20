@@ -209,11 +209,19 @@ footer h2 {
         font-size: 20px;
         color: rgb(0, 0, 0); 
     }
-        
+    
+    .backgroundImg {
+        height: 250px;
+        width: 185%;
+           
+    }
+
 }
 
+
+/*
 header h1,
 header nav ul,
 header nav li,
 .backgroundImg,
-
+*/
