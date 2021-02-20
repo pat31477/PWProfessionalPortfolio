@@ -29,6 +29,8 @@ Smaller devices screen example:
 
 [github pages site] https://pat31477.github.io/PWProfessionalPortfolio/
 
+[github repository site] https://github.com/pat31477/PWProfessionalPortfolio
+
 <a name="usage"></a>
 ## 3. Usage Tips
 

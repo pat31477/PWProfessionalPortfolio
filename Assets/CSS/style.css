@@ -133,6 +133,7 @@ a {
     margin: 25px;
     width: 100%;
     padding: 30px;
+    
 
 }
 
@@ -142,6 +143,7 @@ a {
     padding: 30px;
     margin: 10px;
     flex-wrap: wrap;
+    justify-content: center;
 
 }
 
@@ -150,7 +152,9 @@ a {
     margin: 20px 0px 20px 40px;
     width: 250px;
     height: 250px;
+    
 }
+
 
 .thumbnail {
     padding: 10px;
@@ -196,10 +200,42 @@ footer h2 {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     body {
         background-color: lightcyan;
         width: 100%;
+    }
+
+    .professionalPic{
+        margin-left: 10em;
+
+    }
+
+    .about-me {
+        width: 100%;
+        margin-right: 10px;
+        margin-left: 20px;
+        font-size: 20px;
+        color: rgb(0, 0, 0); 
+    }
+    
+    .backgroundImg {
+        height: 250px;
+        width: 185%;
+           
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color: rgb(94, 243, 67);
+        width: 100%;
+    }
+
+    .professionalPic{
+        margin-left: 1em;
+
     }
 
     .about-me {
