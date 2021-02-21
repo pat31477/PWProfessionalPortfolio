@@ -43,7 +43,7 @@ Desktop screen:
 
 Smaller devices screen example:
 
-![nav-menu](./Assets/Images/Nav-Menu.png?raw=true "Navigational Menu")
+![nav-menu](./Assets/Images/SmallScreenNav.png?raw=true "Navigational Menu")
 
 
 

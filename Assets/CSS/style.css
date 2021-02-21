@@ -68,7 +68,7 @@ a {
 }
 
 .work-text{
-    margin-left: 19.8em;
+    margin-left: 24em;
     margin-top: 20px;
     font-size: 35px;
     position: relative;
@@ -76,7 +76,7 @@ a {
 }
 
 .about-text{
-    margin-left: 17.5em;
+    margin-left: 19.5em;
     margin-top: 20px;
     font-size: 35px;
     position: relative;
@@ -84,8 +84,8 @@ a {
 
 .about-me {
     width: 100%;
-    margin-right: 10px;
-    margin-left: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
     font-size: 20px;
     color: rgb(61, 59, 59);
     
@@ -104,7 +104,7 @@ a {
     align-items: center;
     border-radius: 25px;
     box-shadow: 15px 10px 10px 5px gray;
-    margin-left: 30em;
+    margin-left: 33em;
    
   
 }
@@ -180,6 +180,7 @@ a {
     font-size: 22px;
     background-color: rgb(41, 98, 98);
     color:rgb(219, 214, 214);
+    text-align: center;
 
 }
 
@@ -199,65 +200,45 @@ footer h2 {
     font-size: 20px;
 }
 
-
-@media screen and (max-width: 768px) {
-    body {
-        background-color: lightcyan;
-        width: 100%;
+@media only screen and (max-width: 768px) {
+    .professionalPic {
+        margin-left: 9em;
     }
-
-    .professionalPic{
-        margin-left: 10em;
-
-    }
-
-    .about-me {
-        width: 100%;
-        margin-right: 10px;
-        margin-left: 20px;
-        font-size: 20px;
-        color: rgb(0, 0, 0); 
-    }
-    
-    .backgroundImg {
-        height: 250px;
-        width: 185%;
-           
-    }
-
-}
-
-@media screen and (max-width: 400px) {
-    body {
-        background-color: rgb(94, 243, 67);
-        width: 100%;
-    }
-
-    .professionalPic{
+    .about-text,
+    .work-text {
         margin-left: 1em;
-
+        text-align: center;
     }
-
-    .about-me {
-        width: 100%;
-        margin-right: 10px;
-        margin-left: 20px;
-        font-size: 20px;
-        color: rgb(0, 0, 0); 
+    .contact-me {
+        text-align: center;
     }
-    
+}
+
+@media only screen and (max-width: 400px) {
+    .professionalPic {
+        margin-left: 1em;
+    }
+    .about-text,
+    .work-text {
+        margin-left: 1em;
+        text-align: center;
+    }
+    header nav {
+        width: 75%;
+        float: none;
+    }
     .backgroundImg {
-        height: 250px;
-        width: 185%;
-           
+        height: 134px;
+    }
+    section em {
+        margin: 0px 10px 0px 10px;
+    }
+    .work-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .contact-me {
+        text-align: center;
     }
 
 }
 
-
-/*
-header h1,
-header nav ul,
-header nav li,
-.backgroundImg,
-*/
