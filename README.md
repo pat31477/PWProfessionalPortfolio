@@ -19,7 +19,7 @@ Desktop screen:
 
 Smaller devices screen example:
 
-![Top-Page-Area](./Assets/Images/LandingPage.png?raw=true "Top-Page-Area")
+![Top-Page-Area](./Assets/Images/SmallScreen1.png?raw=true "Top-Page-Area")
 
 <a name="web-address"></a>
 ## 2. How to Get There
@@ -55,7 +55,7 @@ Desktop screen:
 
 Smaller devices screen example:
 
-![body-section](./Assets/Images/##################.JPG?raw=true "Body Section")
+![body-section](./Assets/Images/SmallScreenScroll.png?raw=true "Body Section")
 
 
 <a name="contributions"></a>
