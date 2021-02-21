@@ -55,7 +55,7 @@ Desktop screen:
 
 Smaller devices screen example:
 
-![body-section](./Assets/Images/SmallScreenScroll.png?raw=true "Body Section")
+![body-section](./Assets/Images/SmallScreenScroll.PNG?raw=true "Body Section")
 
 
 <a name="contributions"></a>
